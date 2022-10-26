@@ -5,9 +5,10 @@
 <div align="flex" dir="auto">
     <a href="https://github.com/MatheusAugustoVieira">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoVieira&show_icons=true&theme=radical" style="max-width: 100%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoVieira&layout=compact&langs_count=7&theme=radical" style="max-width: 100%">
     </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoVieira&layout=compact&theme=radical)](https://github.com/MatheusAgustoVieira/github-readme-stats)
 
 ## Tecnologias de uso diário
 
