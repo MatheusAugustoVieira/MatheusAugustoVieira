@@ -26,4 +26,4 @@ Ideias não são criadas prontas. Ideias só se tornam claras à medida que voc�
 
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthsav@gmail.com)
 
-![Snake animation](https://github.com/GabrielKLopes/GabrielKLopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusAugustoVieira/MatheusAugustoVieira/blob/output/github-contribution-grid-snake.svg)
