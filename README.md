@@ -27,3 +27,6 @@ Ideias não são criadas prontas. Ideias só se tornam claras à medida que voc�
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthsav@gmail.com)
 
 ![snake gif](https://github.com/MatheusAugustoVieira/MatheusAugustoVieira/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=MatheusAugustoVieira&repo=MatheusAugustoVieira&theme=react)](https://github.com/MatheusAugustoVieira/MatheusAugustoVieira)
+
